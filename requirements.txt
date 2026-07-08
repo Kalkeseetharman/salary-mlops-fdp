@@ -8,3 +8,6 @@ scikit-learn
 shap
 streamlit
 matplotlib
+
+pytest
+app
