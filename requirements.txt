@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn
+mlflow
+pandas
+numpy
+scikit-learn
+shap
+streamlit
+matplotlib
