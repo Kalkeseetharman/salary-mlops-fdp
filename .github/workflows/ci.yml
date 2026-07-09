@@ -25,7 +25,13 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install -r requirements.txt
+      - name: Install Pytest
+        run: |
+          pip install pytest,app
 
+      - name: Run API Tests
+        run: |
+          pytest tests/
       - name: Verify Imports
         run: |
           python -c "import fastapi"
