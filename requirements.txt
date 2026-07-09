@@ -1,12 +1,12 @@
 
 fastapi
 uvicorn
-mlflow
 pandas
 numpy
 scikit-learn
-shap
+joblib
+mlflow
+pydantic
+python-multipart
 streamlit
-matplotlib
-pytest
-app
+requests
