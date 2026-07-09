@@ -8,3 +8,9 @@ scikit-learn
 shap
 streamlit
 matplotlib
+<<<<<<< HEAD
+=======
+
+pytest
+app
+>>>>>>> f99f25eba22775c84213cc5db58825827495b991
